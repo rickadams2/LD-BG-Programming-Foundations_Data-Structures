@@ -1,4 +1,4 @@
-Uitwerking van datastructures in C#, Java, Python, Swift. 
+Elaboration of data structures in C #, Java, Python, Swift.
 
 Onderwerpen
 -
